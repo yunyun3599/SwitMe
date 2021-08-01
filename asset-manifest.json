@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SwitMe/static/css/main.e55cd0a4.chunk.css",
+    "main.js": "/SwitMe/static/js/main.0e188b68.chunk.js",
+    "main.js.map": "/SwitMe/static/js/main.0e188b68.chunk.js.map",
+    "runtime-main.js": "/SwitMe/static/js/runtime-main.45534509.js",
+    "runtime-main.js.map": "/SwitMe/static/js/runtime-main.45534509.js.map",
+    "static/css/2.83a79fa7.chunk.css": "/SwitMe/static/css/2.83a79fa7.chunk.css",
+    "static/js/2.7247fc52.chunk.js": "/SwitMe/static/js/2.7247fc52.chunk.js",
+    "static/js/2.7247fc52.chunk.js.map": "/SwitMe/static/js/2.7247fc52.chunk.js.map",
+    "index.html": "/SwitMe/index.html",
+    "static/css/2.83a79fa7.chunk.css.map": "/SwitMe/static/css/2.83a79fa7.chunk.css.map",
+    "static/css/main.e55cd0a4.chunk.css.map": "/SwitMe/static/css/main.e55cd0a4.chunk.css.map",
+    "static/js/2.7247fc52.chunk.js.LICENSE.txt": "/SwitMe/static/js/2.7247fc52.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SwitMe/static/media/NotoSansKR-Regular.457762ea.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45534509.js",
+    "static/css/2.83a79fa7.chunk.css",
+    "static/js/2.7247fc52.chunk.js",
+    "static/css/main.e55cd0a4.chunk.css",
+    "static/js/main.0e188b68.chunk.js"
+  ]
+}
